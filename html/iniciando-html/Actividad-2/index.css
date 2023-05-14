@@ -1,6 +1,44 @@
-body{
-    background-image: url(./fondo\ inquisidora.jpg);
+*{
+    margin: 5px;
+    padding: 5px;
 }
-h1{
-    color: aqua;  
+
+
+body {
+    background-image: url(./Imagenes-kygo/fondo-pantala-2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
+
+
+
+
+.centrar {
+    text-align: center;
+}
+
+
+
+h1 {
+    background-color: aqua;
+}
+
+
+#seccion-1 {
+    background-color: beige;
+    padding-top: 5px;
+    padding-right: 500px;
+    
+}
+
+div#seccion {
+    margin: auto;
+    margin-top: 100px;
+    width:960px;
+    height: 800px;
+    background-color: beige;
+}
+
+
